@@ -1,0 +1,36 @@
+Idade,Genero,Estado Civil,Renda Familiar,Escola Ensino Medio,Status,Motivo da Evasao,Trabalha Atualmente,Ultimo Periodo Curso,Desempenho
+18,Feminino,Solteiro(a),1414.37,Publica,Ativo,,Nao,5,68.5
+20,Masculino,Divorciado(a),4238.37,Privada,Evadido,Dificuldade financeira,Nao,6,76.4
+18,Masculino,Viuvo(a),2295.8,Publica,Ativo,,Nao,9,77.8
+27,Outro,Solteiro(a),3765.94,Publica,Evadido,Baixo desempenho,Sim,1,61.9
+30,Masculino,Casado(a),3991.39,Privada,Ativo,,Sim,1,61.6
+27,Outro,Divorciado(a),2626.53,Privada,Evadido,Motivos pessoais,Sim,1,62.1
+19,Outro,Solteiro(a),2425.61,Publica,Evadido,Baixo desempenho,Sim,1,61.8
+26,Feminino,Solteiro(a),1564.17,Privada,Ativo,,Nao,8,76.4
+18,Feminino,Divorciado(a),1752.35,Privada,Evadido,Trabalho,Nao,4,69.7
+33,Outro,Casado(a),2173.05,Privada,Ativo,,Sim,7,79.5
+33,Feminino,Casado(a),2798.23,Privada,Evadido,Baixo desempenho,Nao,6,75.4
+33,Masculino,Solteiro(a),4861.6,Publica,Ativo,,Sim,8,72.2
+25,Masculino,Solteiro(a),1694.63,Privada,Formado,,Nao,9,81.8
+29,Masculino,Viuvo(a),2387.09,Privada,Formado,,Nao,10,87.7
+27,Masculino,Viuvo(a),4892.37,Publica,Ativo,,Sim,6,69.4
+17,Feminino,Viuvo(a),2870.85,Publica,Evadido,Dificuldade financeira,Nao,9,81.9
+33,Outro,Viuvo(a),3268.13,Publica,Ativo,,Nao,8,83.5
+24,Outro,Solteiro(a),795.13,Privada,Formado,,Sim,3,68.0
+34,Feminino,Viuvo(a),2727.99,Privada,Ativo,,Nao,1,62.0
+17,Masculino,Solteiro(a),3187.55,Privada,Ativo,,Sim,1,61.7
+25,Feminino,Solteiro(a),1013.7,Privada,Evadido,Trabalho,Nao,7,77.2
+17,Masculino,Divorciado(a),3917.3,Publica,Ativo,,Nao,2,65.5
+19,Feminino,Viuvo(a),3767.52,Publica,Ativo,,Nao,2,65.9
+34,Outro,Viuvo(a),2968.44,Privada,Ativo,,Sim,6,76.4
+25,Feminino,Divorciado(a),3022.49,Publica,Ativo,,Nao,7,77.2
+28,Masculino,Divorciado(a),2096.63,Publica,Ativo,,Nao,2,63.7
+21,Feminino,Divorciado(a),4083.46,Publica,Formado,,Sim,1,62.4
+33,Feminino,Solteiro(a),3755.24,Privada,Evadido,Motivos pessoais,Sim,5,69.8
+29,Feminino,Divorciado(a),2185.24,Publica,Ativo,,Nao,9,81.4
+20,Outro,Casado(a),2679.84,Publica,Evadido,Dificuldade financeira,Nao,7,73.5
+18,Outro,Solteiro(a),2112.46,Publica,Evadido,Baixo desempenho,Nao,1,62.2
+28,Feminino,Solteiro(a),3383.11,Privada,Evadido,Baixo desempenho,Nao,7,77.9
+17,Masculino,Viuvo(a),1415.43,Privada,Ativo,,Sim,6,75.1
+33,Masculino,Viuvo(a),2009.44,Privada,Evadido,Dificuldade financeira,Sim,10,88.7
+27,Masculino,Divorciado(a),2475.37,Privada,Ativo,,Sim,4,68.9
